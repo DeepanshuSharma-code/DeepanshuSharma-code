@@ -2,14 +2,14 @@
 
 🚀 Full Stack Developer who loves turning ideas into real, working web applications using the MERN stack. I enjoy building everything from clean, responsive UIs to reliable backend APIs.
 
-- 💻 Comfortable working across the full stack — frontend to backend to database
-- 🌱 Constantly learning and improving through hands-on projects
-- 🤝 Open to work and excited to contribute to a great team
-- 📍 Based in India
+- Comfortable working across the full stack — frontend to backend to database 📊📈
+- Constantly learning and improving through hands-on projects ☕
+- Open to work and excited to contribute to a great team 📝
+- Based in India 📍
 
 ---
 
-**🛠️ Skills**
+Skills 🗁
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -24,6 +24,6 @@
 
 ---
 
-**📬 Connect with me**
+Connect with me 🤜🤛
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshusharma1/)
