@@ -1,6 +1,6 @@
 # Hi, I'm Deepanshu Sharma 👋
 
-🚀 Full Stack Developer who loves turning ideas into real, working web applications using the MERN stack. I enjoy building everything from clean, responsive UIs to reliable backend APIs.
+Full Stack Developer who loves turning ideas into real, working web applications using the MERN stack. I enjoy building everything from clean, responsive UIs to reliable backend APIs.
 
 - Comfortable working across the full stack — frontend to backend to database 📊📈
 - Constantly learning and improving through hands-on projects ☕
