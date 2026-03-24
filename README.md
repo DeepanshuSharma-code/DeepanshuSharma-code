@@ -24,6 +24,6 @@
 
 ---
 
-Connect with me 🤜🤛
+**Connect with me 🤜🤛**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshusharma1/)
